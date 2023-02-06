@@ -1,1 +1,1 @@
-# aprendiendo_python  No intento monetizar con esto es solo prara aprender
+# aprendiendo_python  No intento monetizar con esto es solo para aprender
